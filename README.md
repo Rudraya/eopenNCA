@@ -1,8 +1,8 @@
 <img align="right" src = "https://media-exp1.licdn.com/dms/image/C4D0BAQGNjWhGMxtQVw/company-logo_100_100/0/1519913290692?e=1626912000&v=beta&t=_MUeWCL_PGVscmQgNSYzJrJ7RTt65VaZFOSZz9gE40Q">
 
-# Enhanced openNCA (**e**openNCA)
+# Enhanced openNCA (eopenNCA)
 
-eopenNCA is an R package for computation of Non-Compartmental Analysis (NCA). eopenNCA is a free and open-source software maintained and supported by Rudraya.
+**e**openNCA is an R package for computation of Non-Compartmental Analysis (NCA). eopenNCA is a free and open-source software maintained and supported by Rudraya.
 
 eopenNCA is an advance extension of openNCA R3.0 package. openNCA's original codebase was based upon the Splus based "eNCA Computation Engine", which was the production pharmacokinetic (PK) bioanalysis data management repository and analysis system developed internally by Pfizer.
 

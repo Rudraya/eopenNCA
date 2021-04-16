@@ -1,3 +1,5 @@
+<img align="right" src = "https://media-exp1.licdn.com/dms/image/C4D0BAQGNjWhGMxtQVw/company-logo_100_100/0/1519913290692?e=1626912000&v=beta&t=_MUeWCL_PGVscmQgNSYzJrJ7RTt65VaZFOSZz9gE40Q">
+
 # Enhanced openNCA (eopenNCA)
 
 eopenNCA is an R package for computation of Non-Compartmental Analysis (NCA). eopenNCA is a free and open-source software maintained and supported by Rudraya.
